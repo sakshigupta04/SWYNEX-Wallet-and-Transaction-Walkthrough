@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="succseeful" src="https://github.com/user-attachments/assets/237f74e0-fddd-4a00-aa72-cfc015471906" />
 # SWYNEX — Wallet and Transaction Walkthrough
 
 ## Task 2: Wallet and Transaction Walkthrough
@@ -68,11 +69,15 @@ Screenshots of the test transaction walkthrough are included below.
 
 ### Screenshot 1 — Wallet/Test Network
 
-*Add screenshot here.*
+<img width="1366" height="768" alt="Screenshot 2026-09-30 094110" src="https://github.com/user-attachments/assets/28b1e1d9-b91b-4a14-a918-1ad18c7eb5ab" />
+
+
 
 ### Screenshot 2 — Transaction Details
 
-*Add screenshot here.*
+<img width="1366" height="768" alt="succseeful" src="https://github.com/user-attachments/assets/be76ad7e-1221-429d-9390-80354b519a35" />
+
+
 
 ### Screenshot 3 — Transaction Confirmation/Result
 
