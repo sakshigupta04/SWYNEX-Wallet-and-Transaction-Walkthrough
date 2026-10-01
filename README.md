@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="succseeful" src="https://github.com/user-attachments/assets/237f74e0-fddd-4a00-aa72-cfc015471906" />
+
 # SWYNEX — Wallet and Transaction Walkthrough
 
 ## Task 2: Wallet and Transaction Walkthrough
