@@ -76,7 +76,8 @@ Screenshots of the test transaction walkthrough are included below.
 
 ### Screenshot 3 — Transaction Confirmation/Result
 
-succseeful.png
+<img width="1366" height="768" alt="final" src="https://github.com/user-attachments/assets/5e32be26-2857-4c88-8515-5e6f782eb7b8" />
+
 
 
 ## 7. Safety
